@@ -1,0 +1,10 @@
+//JavaScript Example : code between the body tag
+
+
+<html>  
+<body>  
+<script type="text/javascript">  
+ alert("Hello Javatpoint");  
+</script>  
+</body>  
+</html>  
